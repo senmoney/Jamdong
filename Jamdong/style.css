@@ -1,0 +1,47 @@
+h2 {
+color: rgb(255, 251, 0);
+}
+body {background: rgb(236, 236, 153)
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 3.5rem;
+color: crimson;
+font-family: 'Style Script', cursive;
+
+
+
+
+
+main{
+
+
+    background: rgb(187, 240, 187);
+    width: 50%;
+min-height: 500px;
+margin: 0 auto;
+padding: 15px;
+border-radius: 20px;
+box-shadow: 0 0 0 blue;
+}
+
+.Positioning{
+border: 2px solid red;
+padding: 10px;
+margin-top: 20px;
+border-radius: 10px;
+}
+
+h3 {
+margin: 0;
+
+}
+#circle {
+height: 60px;
+width: 60px;
+background: rgb(255, 81, 0);
+} 
